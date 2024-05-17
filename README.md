@@ -35,7 +35,7 @@ O processo de atendimento ao cliente no Lava-Jato ocorre da seguinte forma:
 Esse processo permite que os clientes do Lava-Jato sejam atendidos de maneira ágil e eficiente, sem a necessidade de agendamento prévio. O cadastro do cliente e a emissão da OS garantem a organização e o acompanhamento dos serviços realizados.
 
 
-### Diagrama de Classes do Projeto Lava-Jato 2.0
+### Diagrama de Classes
 
 
 ![classes](https://github.com/inaciosalvador/projeto-lava-jato-2.0-java-spring/assets/112987249/36e74b7f-0a7f-4633-bfed-dc37ce3d8619)
